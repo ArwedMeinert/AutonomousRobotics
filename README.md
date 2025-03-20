@@ -22,7 +22,7 @@ The Monte Carlo method represents the state with a **particle filter**, allowing
 For full implementation details, check the [code here](./Lab).
 
 # Project 1
-The first project focuses on getting used to ROS and its connection to MatLab. The report can be read [here](./Project1).
+The first project focuses on getting used to ROS and its connection to MatLab. The report can be read [here](https://github.com/ArwedMeinert/AutonomousRobotics/tree/aeae27e2b5e97d7a2a206e67119e5ac9f68d4e14/Project%201).
 ## Implemented Features
 
 ### 1. Robot Control
@@ -90,7 +90,7 @@ The first three parts of this project are about looking into the already existin
 # Project 3
 
 ## Overview
-This project implements autonomous robot navigation using the Robot Operating System (ROS) and MATLAB. The goal is to navigate a simulated maze while avoiding obstacles, identifying objects, and finding the exit without mapping. The implementation can be found [here](./Project3)
+This project implements autonomous robot navigation using the Robot Operating System (ROS) and MATLAB. The goal is to navigate a simulated maze while avoiding obstacles, identifying objects, and finding the exit without mapping. The implementation can be found [here](https://github.com/ArwedMeinert/AutonomousRobotics/tree/aeae27e2b5e97d7a2a206e67119e5ac9f68d4e14/Project%203)
 
 ## Tasks and Implementation
 
