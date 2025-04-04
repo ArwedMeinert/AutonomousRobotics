@@ -1,4 +1,4 @@
-# AutonomousRobotics
+# Autonomous Robotics
 Documentation on the AutonomousRobotics course conducted in University West. The goal is to implement different SLAM algorithms using ROS and MatLab. In the Lab, an EKF and MCL was implemented in a Matlab enviroment. Project 1 was about using the ROS mapping functionallity. In Project 2, the source code of the ROS implementation was read and summariesed. Project 3 was about the connection between ROS and Matlab. Here, the robot was controlled in a Gazebo enviroment to first, find a path outside the maze and secondly find a cone shaped object in the maze.
 ___
 # Lab 
